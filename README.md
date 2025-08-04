@@ -2,49 +2,49 @@
 
 Olá! 👋
 
-Este repositório reúne 12 projetos em C# que desenvolvi para estudo e prática. Eles abrangem desde conceitos básicos até intermediários da linguagem, com foco em lógica de programação, manipulação de dados e estruturação de código.
+Este repositório contém diversos projetos em C# que desenvolvi para estudo e prática. Cada projeto aborda diferentes conceitos da linguagem e lógica de programação.
 
 ## 🚀 Objetivo
 
-Aprimorar minhas habilidades em C# criando projetos práticos, organizados e comentados para facilitar meu aprendizado e compartilhar com a comunidade.
+Aprimorar minhas habilidades em C# criando projetos organizados e funcionais para estudo pessoal e para compartilhar com a comunidade.
 
 ## 📂 Lista de Projetos
 
-1. [Projeto 1 - Olá Mundo](./Projeto1_OlaMundo)  
+1. [Projeto1_OlaMundo](./Projeto1_OlaMundo)  
    Programa simples que imprime "Olá Mundo!" no console.
 
-2. [Projeto 2 - Lista de Frutas](./Projeto2_ListaFrutas)  
-   Manipulação básica de listas com frutas.
+2. [Projeto2_ListaFrutas](./Projeto2_ListaFrutas)  
+   Manipulação de uma lista de frutas com operações básicas.
 
-3. [Projeto 3 - Calculadora Simples](./Projeto3_CalculadoraSimples)  
-   Calculadora de operações básicas (soma, subtração, multiplicação, divisão).
+3. [Projeto3_ListaTarefas](./Projeto3_ListaTarefas)  
+   Aplicação simples para gerenciar uma lista de tarefas.
 
-4. [Projeto 4 - Verificador de Número Par ou Ímpar](./Projeto4_ParImpar)  
-   Programa que verifica se um número é par ou ímpar.
+4. [Projeto4_Calculadora](./Projeto4_Calculadora)  
+   Calculadora básica para operações matemáticas.
 
-5. [Projeto 5 - Contador de Palavras](./Projeto5_ContadorPalavras)  
-   Conta a quantidade de palavras em uma frase fornecida pelo usuário.
+5. [Projeto5_Adivinhacao](./Projeto5_Adivinhacao)  
+   Jogo de adivinhação onde o usuário tenta acertar um número sorteado.
 
-6. [Projeto 6 - Jogo de Adivinhação](./Projeto6_JogoAdivinhacao)  
-   Jogo simples onde o usuário tenta adivinhar um número aleatório.
+6. [Projeto6_ConversorTemperatura](./Projeto6_ConversorTemperatura)  
+   Conversor entre diferentes unidades de temperatura (Celsius, Fahrenheit, Kelvin).
 
-7. [Projeto 7 - Conversor de Temperatura](./Projeto7_ConversorTemperatura)  
-   Converte temperaturas entre Celsius, Fahrenheit e Kelvin.
+7. [Projeto7_ValidadorSenha](./Projeto7_ValidadorSenha)  
+   Programa para validar a força e formato de senhas.
 
-8. [Projeto 8 - Gerenciador de Tarefas](./Projeto8_GerenciadorTarefas)  
-   Aplicação simples para adicionar, listar e remover tarefas.
+8. [Projeto8_JogoAdivinhacao](./Projeto8_JogoAdivinhacao)  
+   Outra versão de jogo de adivinhação com lógica diferente.
 
-9. [Projeto 9 - Calculadora de Média](./Projeto9_CalculadoraMedia)  
-   Calcula a média de várias notas informadas pelo usuário.
+9. [Projeto9_CalculadoraSimples](./Projeto9_CalculadoraSimples)  
+   Calculadora simples para operações aritméticas básicas.
 
-10. [Projeto 10 - Validador de CPF](./Projeto10_ValidadorCPF)  
-    Programa que verifica se um CPF é válido segundo a regra de cálculo.
+10. [Projeto10_ContadorPalavras](./Projeto10_ContadorPalavras)  
+    Conta o número de palavras em um texto fornecido pelo usuário.
 
-11. [Projeto 11 - Banco Simples](./Projeto11_BancoSimples)  
-    Simula operações bancárias básicas como depósito, saque e consulta de saldo.
+11. [Projeto11_ConversorUnidades](./Projeto11_ConversorUnidades)  
+    Converte diferentes unidades de medida.
 
-12. [Projeto 12 - Agenda de Contatos](./Projeto12_AgendaContatos)  
-    Cadastro e listagem de contatos com nome, telefone e email.
+12. [Projeto12_BancoSimples](./Projeto12_BancoSimples)  
+    Simulação básica de operações bancárias como depósito, saque e consulta de saldo.
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -58,14 +58,14 @@ Aprimorar minhas habilidades em C# criando projetos práticos, organizados e com
    `git clone https://github.com/leticisf/Projetos-CSharp.git`
 
 2. Entre na pasta do projeto desejado:  
-   `cd ProjetoX_NomeDoProjeto`
+   `cd NomeDaPastaDoProjeto`
 
 3. Execute o projeto com o comando:  
    `dotnet run`
 
 ## 🤝 Contato
 
-Se quiser conversar, tirar dúvidas ou sugerir algo, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/leticiafaustino) ou enviar um email para leticia@example.com
+Se quiser conversar, tirar dúvidas ou sugerir algo, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/leticiafaustino) ou enviar um email para dasilvanascimentoleticia@gmail.com
 
 ---
 
