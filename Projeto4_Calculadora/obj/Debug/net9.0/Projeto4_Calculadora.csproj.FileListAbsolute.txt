@@ -1,0 +1,15 @@
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto4_Calculadora\bin\Debug\net9.0\Projeto4_Calculadora.exe
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto4_Calculadora\bin\Debug\net9.0\Projeto4_Calculadora.deps.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto4_Calculadora\bin\Debug\net9.0\Projeto4_Calculadora.runtimeconfig.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto4_Calculadora\bin\Debug\net9.0\Projeto4_Calculadora.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto4_Calculadora\bin\Debug\net9.0\Projeto4_Calculadora.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto4_Calculadora\obj\Debug\net9.0\Projeto4_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto4_Calculadora\obj\Debug\net9.0\Projeto4_Calculadora.AssemblyInfoInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto4_Calculadora\obj\Debug\net9.0\Projeto4_Calculadora.AssemblyInfo.cs
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto4_Calculadora\obj\Debug\net9.0\Projeto4_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto4_Calculadora\obj\Debug\net9.0\Projeto4_Calculadora.sourcelink.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto4_Calculadora\obj\Debug\net9.0\Projeto4_Calculadora.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto4_Calculadora\obj\Debug\net9.0\refint\Projeto4_Calculadora.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto4_Calculadora\obj\Debug\net9.0\Projeto4_Calculadora.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto4_Calculadora\obj\Debug\net9.0\Projeto4_Calculadora.genruntimeconfig.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto4_Calculadora\obj\Debug\net9.0\ref\Projeto4_Calculadora.dll

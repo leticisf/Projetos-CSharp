@@ -1,0 +1,15 @@
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto5_Adivinhacao\bin\Debug\net9.0\Projeto5_Adivinhacao.exe
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto5_Adivinhacao\bin\Debug\net9.0\Projeto5_Adivinhacao.deps.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto5_Adivinhacao\bin\Debug\net9.0\Projeto5_Adivinhacao.runtimeconfig.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto5_Adivinhacao\bin\Debug\net9.0\Projeto5_Adivinhacao.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto5_Adivinhacao\bin\Debug\net9.0\Projeto5_Adivinhacao.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto5_Adivinhacao\obj\Debug\net9.0\Projeto5_Adivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto5_Adivinhacao\obj\Debug\net9.0\Projeto5_Adivinhacao.AssemblyInfoInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto5_Adivinhacao\obj\Debug\net9.0\Projeto5_Adivinhacao.AssemblyInfo.cs
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto5_Adivinhacao\obj\Debug\net9.0\Projeto5_Adivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto5_Adivinhacao\obj\Debug\net9.0\Projeto5_Adivinhacao.sourcelink.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto5_Adivinhacao\obj\Debug\net9.0\Projeto5_Adivinhacao.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto5_Adivinhacao\obj\Debug\net9.0\refint\Projeto5_Adivinhacao.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto5_Adivinhacao\obj\Debug\net9.0\Projeto5_Adivinhacao.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto5_Adivinhacao\obj\Debug\net9.0\Projeto5_Adivinhacao.genruntimeconfig.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto5_Adivinhacao\obj\Debug\net9.0\ref\Projeto5_Adivinhacao.dll

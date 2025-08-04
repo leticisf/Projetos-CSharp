@@ -1,0 +1,15 @@
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto8_JogoAdivinhacao\bin\Debug\net9.0\Projeto8_JogoAdivinhacao.exe
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto8_JogoAdivinhacao\bin\Debug\net9.0\Projeto8_JogoAdivinhacao.deps.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto8_JogoAdivinhacao\bin\Debug\net9.0\Projeto8_JogoAdivinhacao.runtimeconfig.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto8_JogoAdivinhacao\bin\Debug\net9.0\Projeto8_JogoAdivinhacao.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto8_JogoAdivinhacao\bin\Debug\net9.0\Projeto8_JogoAdivinhacao.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto8_JogoAdivinhacao\obj\Debug\net9.0\Projeto8_JogoAdivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto8_JogoAdivinhacao\obj\Debug\net9.0\Projeto8_JogoAdivinhacao.AssemblyInfoInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto8_JogoAdivinhacao\obj\Debug\net9.0\Projeto8_JogoAdivinhacao.AssemblyInfo.cs
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto8_JogoAdivinhacao\obj\Debug\net9.0\Projeto8_JogoAdivinhacao.csproj.CoreCompileInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto8_JogoAdivinhacao\obj\Debug\net9.0\Projeto8_JogoAdivinhacao.sourcelink.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto8_JogoAdivinhacao\obj\Debug\net9.0\Projeto8_JogoAdivinhacao.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto8_JogoAdivinhacao\obj\Debug\net9.0\refint\Projeto8_JogoAdivinhacao.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto8_JogoAdivinhacao\obj\Debug\net9.0\Projeto8_JogoAdivinhacao.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto8_JogoAdivinhacao\obj\Debug\net9.0\Projeto8_JogoAdivinhacao.genruntimeconfig.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto8_JogoAdivinhacao\obj\Debug\net9.0\ref\Projeto8_JogoAdivinhacao.dll

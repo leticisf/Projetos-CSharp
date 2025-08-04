@@ -1,0 +1,15 @@
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto2_ListaFrutas\bin\Debug\net9.0\Projeto2_ListaFrutas.exe
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto2_ListaFrutas\bin\Debug\net9.0\Projeto2_ListaFrutas.deps.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto2_ListaFrutas\bin\Debug\net9.0\Projeto2_ListaFrutas.runtimeconfig.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto2_ListaFrutas\bin\Debug\net9.0\Projeto2_ListaFrutas.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto2_ListaFrutas\bin\Debug\net9.0\Projeto2_ListaFrutas.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto2_ListaFrutas\obj\Debug\net9.0\Projeto2_ListaFrutas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto2_ListaFrutas\obj\Debug\net9.0\Projeto2_ListaFrutas.AssemblyInfoInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto2_ListaFrutas\obj\Debug\net9.0\Projeto2_ListaFrutas.AssemblyInfo.cs
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto2_ListaFrutas\obj\Debug\net9.0\Projeto2_ListaFrutas.csproj.CoreCompileInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto2_ListaFrutas\obj\Debug\net9.0\Projeto2_ListaFrutas.sourcelink.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto2_ListaFrutas\obj\Debug\net9.0\Projeto2_ListaFrutas.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto2_ListaFrutas\obj\Debug\net9.0\refint\Projeto2_ListaFrutas.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto2_ListaFrutas\obj\Debug\net9.0\Projeto2_ListaFrutas.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto2_ListaFrutas\obj\Debug\net9.0\Projeto2_ListaFrutas.genruntimeconfig.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto2_ListaFrutas\obj\Debug\net9.0\ref\Projeto2_ListaFrutas.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Projeto2_ListaFrutas/1.0.0": {
+        "runtime": {
+          "Projeto2_ListaFrutas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto2_ListaFrutas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

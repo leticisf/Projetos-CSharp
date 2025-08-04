@@ -1,0 +1,15 @@
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto6_ConversorTemperatura\bin\Debug\net9.0\Projeto6_ConversorTemperatura.exe
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto6_ConversorTemperatura\bin\Debug\net9.0\Projeto6_ConversorTemperatura.deps.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto6_ConversorTemperatura\bin\Debug\net9.0\Projeto6_ConversorTemperatura.runtimeconfig.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto6_ConversorTemperatura\bin\Debug\net9.0\Projeto6_ConversorTemperatura.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto6_ConversorTemperatura\bin\Debug\net9.0\Projeto6_ConversorTemperatura.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto6_ConversorTemperatura\obj\Debug\net9.0\Projeto6_ConversorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto6_ConversorTemperatura\obj\Debug\net9.0\Projeto6_ConversorTemperatura.AssemblyInfoInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto6_ConversorTemperatura\obj\Debug\net9.0\Projeto6_ConversorTemperatura.AssemblyInfo.cs
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto6_ConversorTemperatura\obj\Debug\net9.0\Projeto6_ConversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto6_ConversorTemperatura\obj\Debug\net9.0\Projeto6_ConversorTemperatura.sourcelink.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto6_ConversorTemperatura\obj\Debug\net9.0\Projeto6_ConversorTemperatura.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto6_ConversorTemperatura\obj\Debug\net9.0\refint\Projeto6_ConversorTemperatura.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto6_ConversorTemperatura\obj\Debug\net9.0\Projeto6_ConversorTemperatura.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto6_ConversorTemperatura\obj\Debug\net9.0\Projeto6_ConversorTemperatura.genruntimeconfig.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto6_ConversorTemperatura\obj\Debug\net9.0\ref\Projeto6_ConversorTemperatura.dll

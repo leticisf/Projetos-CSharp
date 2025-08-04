@@ -1,0 +1,15 @@
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto7_ValidadorSenha\bin\Debug\net9.0\Projeto7_ValidadorSenha.exe
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto7_ValidadorSenha\bin\Debug\net9.0\Projeto7_ValidadorSenha.deps.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto7_ValidadorSenha\bin\Debug\net9.0\Projeto7_ValidadorSenha.runtimeconfig.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto7_ValidadorSenha\bin\Debug\net9.0\Projeto7_ValidadorSenha.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto7_ValidadorSenha\bin\Debug\net9.0\Projeto7_ValidadorSenha.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto7_ValidadorSenha\obj\Debug\net9.0\Projeto7_ValidadorSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto7_ValidadorSenha\obj\Debug\net9.0\Projeto7_ValidadorSenha.AssemblyInfoInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto7_ValidadorSenha\obj\Debug\net9.0\Projeto7_ValidadorSenha.AssemblyInfo.cs
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto7_ValidadorSenha\obj\Debug\net9.0\Projeto7_ValidadorSenha.csproj.CoreCompileInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto7_ValidadorSenha\obj\Debug\net9.0\Projeto7_ValidadorSenha.sourcelink.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto7_ValidadorSenha\obj\Debug\net9.0\Projeto7_ValidadorSenha.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto7_ValidadorSenha\obj\Debug\net9.0\refint\Projeto7_ValidadorSenha.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto7_ValidadorSenha\obj\Debug\net9.0\Projeto7_ValidadorSenha.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto7_ValidadorSenha\obj\Debug\net9.0\Projeto7_ValidadorSenha.genruntimeconfig.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto7_ValidadorSenha\obj\Debug\net9.0\ref\Projeto7_ValidadorSenha.dll

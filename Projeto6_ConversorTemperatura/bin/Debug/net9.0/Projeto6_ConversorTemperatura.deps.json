@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Projeto6_ConversorTemperatura/1.0.0": {
+        "runtime": {
+          "Projeto6_ConversorTemperatura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto6_ConversorTemperatura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

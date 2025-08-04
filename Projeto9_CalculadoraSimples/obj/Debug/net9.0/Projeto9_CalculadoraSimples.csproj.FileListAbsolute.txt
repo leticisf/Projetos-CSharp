@@ -1,0 +1,15 @@
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto9_CalculadoraSimples\bin\Debug\net9.0\Projeto9_CalculadoraSimples.exe
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto9_CalculadoraSimples\bin\Debug\net9.0\Projeto9_CalculadoraSimples.deps.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto9_CalculadoraSimples\bin\Debug\net9.0\Projeto9_CalculadoraSimples.runtimeconfig.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto9_CalculadoraSimples\bin\Debug\net9.0\Projeto9_CalculadoraSimples.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto9_CalculadoraSimples\bin\Debug\net9.0\Projeto9_CalculadoraSimples.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto9_CalculadoraSimples\obj\Debug\net9.0\Projeto9_CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto9_CalculadoraSimples\obj\Debug\net9.0\Projeto9_CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto9_CalculadoraSimples\obj\Debug\net9.0\Projeto9_CalculadoraSimples.AssemblyInfo.cs
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto9_CalculadoraSimples\obj\Debug\net9.0\Projeto9_CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto9_CalculadoraSimples\obj\Debug\net9.0\Projeto9_CalculadoraSimples.sourcelink.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto9_CalculadoraSimples\obj\Debug\net9.0\Projeto9_CalculadoraSimples.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto9_CalculadoraSimples\obj\Debug\net9.0\refint\Projeto9_CalculadoraSimples.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto9_CalculadoraSimples\obj\Debug\net9.0\Projeto9_CalculadoraSimples.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto9_CalculadoraSimples\obj\Debug\net9.0\Projeto9_CalculadoraSimples.genruntimeconfig.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto9_CalculadoraSimples\obj\Debug\net9.0\ref\Projeto9_CalculadoraSimples.dll

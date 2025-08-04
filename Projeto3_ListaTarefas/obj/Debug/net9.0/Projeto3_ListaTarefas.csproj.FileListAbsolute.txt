@@ -1,0 +1,15 @@
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto3_ListaTarefas\bin\Debug\net9.0\Projeto3_ListaTarefas.exe
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto3_ListaTarefas\bin\Debug\net9.0\Projeto3_ListaTarefas.deps.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto3_ListaTarefas\bin\Debug\net9.0\Projeto3_ListaTarefas.runtimeconfig.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto3_ListaTarefas\bin\Debug\net9.0\Projeto3_ListaTarefas.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto3_ListaTarefas\bin\Debug\net9.0\Projeto3_ListaTarefas.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto3_ListaTarefas\obj\Debug\net9.0\Projeto3_ListaTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto3_ListaTarefas\obj\Debug\net9.0\Projeto3_ListaTarefas.AssemblyInfoInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto3_ListaTarefas\obj\Debug\net9.0\Projeto3_ListaTarefas.AssemblyInfo.cs
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto3_ListaTarefas\obj\Debug\net9.0\Projeto3_ListaTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto3_ListaTarefas\obj\Debug\net9.0\Projeto3_ListaTarefas.sourcelink.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto3_ListaTarefas\obj\Debug\net9.0\Projeto3_ListaTarefas.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto3_ListaTarefas\obj\Debug\net9.0\refint\Projeto3_ListaTarefas.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto3_ListaTarefas\obj\Debug\net9.0\Projeto3_ListaTarefas.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto3_ListaTarefas\obj\Debug\net9.0\Projeto3_ListaTarefas.genruntimeconfig.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto3_ListaTarefas\obj\Debug\net9.0\ref\Projeto3_ListaTarefas.dll

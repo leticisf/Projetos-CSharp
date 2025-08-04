@@ -1,0 +1,15 @@
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto1_OlaMundo\bin\Debug\net9.0\Projeto1_OlaMundo.exe
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto1_OlaMundo\bin\Debug\net9.0\Projeto1_OlaMundo.deps.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto1_OlaMundo\bin\Debug\net9.0\Projeto1_OlaMundo.runtimeconfig.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto1_OlaMundo\bin\Debug\net9.0\Projeto1_OlaMundo.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto1_OlaMundo\bin\Debug\net9.0\Projeto1_OlaMundo.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto1_OlaMundo\obj\Debug\net9.0\Projeto1_OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto1_OlaMundo\obj\Debug\net9.0\Projeto1_OlaMundo.AssemblyInfoInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto1_OlaMundo\obj\Debug\net9.0\Projeto1_OlaMundo.AssemblyInfo.cs
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto1_OlaMundo\obj\Debug\net9.0\Projeto1_OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto1_OlaMundo\obj\Debug\net9.0\Projeto1_OlaMundo.sourcelink.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto1_OlaMundo\obj\Debug\net9.0\Projeto1_OlaMundo.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto1_OlaMundo\obj\Debug\net9.0\refint\Projeto1_OlaMundo.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto1_OlaMundo\obj\Debug\net9.0\Projeto1_OlaMundo.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto1_OlaMundo\obj\Debug\net9.0\Projeto1_OlaMundo.genruntimeconfig.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto1_OlaMundo\obj\Debug\net9.0\ref\Projeto1_OlaMundo.dll

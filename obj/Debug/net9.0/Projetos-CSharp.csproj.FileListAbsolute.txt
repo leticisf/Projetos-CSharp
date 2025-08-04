@@ -1,0 +1,15 @@
+C:\Users\Faustina\Documents\Projetos-CSharp\bin\Debug\net9.0\Projetos-CSharp.exe
+C:\Users\Faustina\Documents\Projetos-CSharp\bin\Debug\net9.0\Projetos-CSharp.deps.json
+C:\Users\Faustina\Documents\Projetos-CSharp\bin\Debug\net9.0\Projetos-CSharp.runtimeconfig.json
+C:\Users\Faustina\Documents\Projetos-CSharp\bin\Debug\net9.0\Projetos-CSharp.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\bin\Debug\net9.0\Projetos-CSharp.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\obj\Debug\net9.0\Projetos-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faustina\Documents\Projetos-CSharp\obj\Debug\net9.0\Projetos-CSharp.AssemblyInfoInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\obj\Debug\net9.0\Projetos-CSharp.AssemblyInfo.cs
+C:\Users\Faustina\Documents\Projetos-CSharp\obj\Debug\net9.0\Projetos-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\obj\Debug\net9.0\Projetos-CSharp.sourcelink.json
+C:\Users\Faustina\Documents\Projetos-CSharp\obj\Debug\net9.0\Projetos-CSharp.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\obj\Debug\net9.0\refint\Projetos-CSharp.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\obj\Debug\net9.0\Projetos-CSharp.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\obj\Debug\net9.0\Projetos-CSharp.genruntimeconfig.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\obj\Debug\net9.0\ref\Projetos-CSharp.dll
