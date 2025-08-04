@@ -9,24 +9,21 @@ Oie! Sou a Letícia, estudante de programação, e este repositório é o meu po
 
 ## 📂 Lista de Projetos
 
-| Nº  | Nome do Projeto          | Descrição                                                        |
-|-----|-------------------------|------------------------------------------------------------------|
-| 01  | Olá, Mundo              | Primeiro programa para treinar `Console.WriteLine()` e entrada. |
-| 02  | Lista de Frutas         | Recebe várias frutas e mostra no final.                         |
-| 03  | Lista de Tarefas        | Adiciona, lista e remove tarefas.                               |
-| 04  | Calculadora Simples     | Soma, subtração, multiplicação e divisão.                       |
-| 05  | Jogo de Adivinhação     | O usuário tenta adivinhar um número aleatório.                  |
-| 06  | Conversor de Temperatura| Converte entre Celsius, Fahrenheit e Kelvin.                    |
-| 07  | Validador de Senha      | Verifica se uma senha atende critérios mínimos.                 |
-| 08  | Tabuada Automática      | Mostra a tabuada de um número informado.                        |
-| 09  | Conversor de Moedas     | Converte reais em dólar, euro ou libra.                         |
-| 10  | Contador de Palavras    | Conta quantas palavras foram digitadas em uma frase.            |
-| 11  | Conversor de Unidades   | Converte entre metros, km e milhas.                             |
-| 12  | Banco Simples           | Permite ver saldo, depositar e sacar.                           |
+## 📂 Lista de Projetos
 
----
+1. [Projeto 1 - Olá Mundo](./Projeto1_OlaMundo)
+2. [Projeto 2 - Lista de Frutas](./Projeto2_ListaFrutas)
+3. [Projeto 3 - Lista de Tarefas](./Projeto3_ListaTarefas)
+4. [Projeto 4 - Calculadora Simples](./Projeto4_Calculadora)
+5. [Projeto 5 - Jogo de Adivinhação](./Projeto5_Adivinhacao)
+6. [Projeto 6 - Conversor de Temperatura](./Projeto6_ConversorTemperatura)
+7. [Projeto 7 - Validador de Senha](./Projeto7_ValidadorSenha)
+8. [Projeto 8 - Tabuada Automática](./Projeto8_JogoAdivinhacao)
+9. [Projeto 9 - Conversor de Moedas](./Projeto9_CalculadoraSimples)
+10. [Projeto 10 - Contador de Palavras](./Projeto10_ContadorPalavras)
+11. [Projeto 11 - Conversor de Unidades](./Projeto11_ConversorUnidades)
+12. [Projeto 12 - Banco Simples](./Projeto12_BancoSimples)
 
-## 🧠 Próximos Passos
 
-Agora que os projetos foram concluídos, vou refazê-los como **exercícios práticos** para reforçar meu aprendizado.  
-Cada pasta será refeita com lógica própria e explicações, como forma de revisão.
+
+
