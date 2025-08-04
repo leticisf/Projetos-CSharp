@@ -1,0 +1,15 @@
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto12_BancoSimples\bin\Debug\net9.0\Projeto12_BancoSimples.exe
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto12_BancoSimples\bin\Debug\net9.0\Projeto12_BancoSimples.deps.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto12_BancoSimples\bin\Debug\net9.0\Projeto12_BancoSimples.runtimeconfig.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto12_BancoSimples\bin\Debug\net9.0\Projeto12_BancoSimples.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto12_BancoSimples\bin\Debug\net9.0\Projeto12_BancoSimples.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto12_BancoSimples\obj\Debug\net9.0\Projeto12_BancoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto12_BancoSimples\obj\Debug\net9.0\Projeto12_BancoSimples.AssemblyInfoInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto12_BancoSimples\obj\Debug\net9.0\Projeto12_BancoSimples.AssemblyInfo.cs
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto12_BancoSimples\obj\Debug\net9.0\Projeto12_BancoSimples.csproj.CoreCompileInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto12_BancoSimples\obj\Debug\net9.0\Projeto12_BancoSimples.sourcelink.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto12_BancoSimples\obj\Debug\net9.0\Projeto12_BancoSimples.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto12_BancoSimples\obj\Debug\net9.0\refint\Projeto12_BancoSimples.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto12_BancoSimples\obj\Debug\net9.0\Projeto12_BancoSimples.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto12_BancoSimples\obj\Debug\net9.0\Projeto12_BancoSimples.genruntimeconfig.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto12_BancoSimples\obj\Debug\net9.0\ref\Projeto12_BancoSimples.dll

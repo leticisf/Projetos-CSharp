@@ -1,0 +1,15 @@
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto11_ConversorUnidades\bin\Debug\net9.0\Projeto11_ConversorUnidades.exe
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto11_ConversorUnidades\bin\Debug\net9.0\Projeto11_ConversorUnidades.deps.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto11_ConversorUnidades\bin\Debug\net9.0\Projeto11_ConversorUnidades.runtimeconfig.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto11_ConversorUnidades\bin\Debug\net9.0\Projeto11_ConversorUnidades.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto11_ConversorUnidades\bin\Debug\net9.0\Projeto11_ConversorUnidades.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto11_ConversorUnidades\obj\Debug\net9.0\Projeto11_ConversorUnidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto11_ConversorUnidades\obj\Debug\net9.0\Projeto11_ConversorUnidades.AssemblyInfoInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto11_ConversorUnidades\obj\Debug\net9.0\Projeto11_ConversorUnidades.AssemblyInfo.cs
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto11_ConversorUnidades\obj\Debug\net9.0\Projeto11_ConversorUnidades.csproj.CoreCompileInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto11_ConversorUnidades\obj\Debug\net9.0\Projeto11_ConversorUnidades.sourcelink.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto11_ConversorUnidades\obj\Debug\net9.0\Projeto11_ConversorUnidades.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto11_ConversorUnidades\obj\Debug\net9.0\refint\Projeto11_ConversorUnidades.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto11_ConversorUnidades\obj\Debug\net9.0\Projeto11_ConversorUnidades.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto11_ConversorUnidades\obj\Debug\net9.0\Projeto11_ConversorUnidades.genruntimeconfig.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto11_ConversorUnidades\obj\Debug\net9.0\ref\Projeto11_ConversorUnidades.dll

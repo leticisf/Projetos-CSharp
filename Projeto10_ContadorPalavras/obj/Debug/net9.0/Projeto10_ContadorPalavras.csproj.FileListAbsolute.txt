@@ -1,0 +1,15 @@
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto10_ContadorPalavras\bin\Debug\net9.0\Projeto10_ContadorPalavras.exe
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto10_ContadorPalavras\bin\Debug\net9.0\Projeto10_ContadorPalavras.deps.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto10_ContadorPalavras\bin\Debug\net9.0\Projeto10_ContadorPalavras.runtimeconfig.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto10_ContadorPalavras\bin\Debug\net9.0\Projeto10_ContadorPalavras.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto10_ContadorPalavras\bin\Debug\net9.0\Projeto10_ContadorPalavras.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto10_ContadorPalavras\obj\Debug\net9.0\Projeto10_ContadorPalavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto10_ContadorPalavras\obj\Debug\net9.0\Projeto10_ContadorPalavras.AssemblyInfoInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto10_ContadorPalavras\obj\Debug\net9.0\Projeto10_ContadorPalavras.AssemblyInfo.cs
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto10_ContadorPalavras\obj\Debug\net9.0\Projeto10_ContadorPalavras.csproj.CoreCompileInputs.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto10_ContadorPalavras\obj\Debug\net9.0\Projeto10_ContadorPalavras.sourcelink.json
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto10_ContadorPalavras\obj\Debug\net9.0\Projeto10_ContadorPalavras.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto10_ContadorPalavras\obj\Debug\net9.0\refint\Projeto10_ContadorPalavras.dll
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto10_ContadorPalavras\obj\Debug\net9.0\Projeto10_ContadorPalavras.pdb
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto10_ContadorPalavras\obj\Debug\net9.0\Projeto10_ContadorPalavras.genruntimeconfig.cache
+C:\Users\Faustina\Documents\Projetos-CSharp\Projeto10_ContadorPalavras\obj\Debug\net9.0\ref\Projeto10_ContadorPalavras.dll
